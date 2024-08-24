@@ -80,13 +80,15 @@
             @endif
 
             <div class="content">
+                <p>Kantor Kementerian Agama Kabupaten Sampang</p>
+
                 <div class="title m-b-md">
-                    Testing Laravel
+                    KUA Banyuates
                 </div>
 
                 <div class="links">
-                    <a href="https://www.muslimaswaja.id">Website</a>
-                    <a href="https://instagram.com/muslimbinazizi">Instagram</a>
+                    <a href="https://www.muslimaswaja.id">Pelayanan Lain</a>
+                    <a href="https://instagram.com/muslimbinazizi">Daftar Nikah</a>
                 </div>
             </div>
         </div>
